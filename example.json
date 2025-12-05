@@ -1,34 +1,4 @@
-{
-    "name": {
-        "x": 500,
-        "y": 709,
-        "font_size": 100,
-        "color": "#000000",
-        "font_path": "static/fonts/demo-font.ttf"
-    },
-    "email": {
-    "x": 1302,
-    "y": 1331,
-    "font_size": 48,
-    "color": "#333333"
-    },
-    "signature": {
-        "x": 1509,
-        "y": 1121,
-        "font_size": 48,
-        "color": "#666666"
-    },
-    "date": {
-        "x": 307,
-        "y": 1331,
-        "font_size": 48,
-        "color": "#666666"
-    }
-}
-
-
-new
-
+// test
 {
     "name": {
         "x": 999,
@@ -99,19 +69,33 @@ new
 
 
 
-main2
 
+// final
 {
     "name": {
         "x": 1000,
         "y": 809,
         "font_size": 70,
         "color": "#000000",
-        "font_path": "static/fonts/times-new-roman.otf",
+        "font_path": "static/fonts/demo-font.otf",
         "align": "center"
     }
 }
 
 {
     "name": {"x": 1000, "y": 809, "font_size": 70, "color": "#000000", "font_path": "static/fonts/times-new-roman.otf", "align": "center"}
+}
+
+
+// certificate_color 2 name's color: #38527d, font: 
+
+{
+    "name": {
+        "x": 1000,
+        "y": 750,
+        "font_size": 70,
+        "color": "#38527d",
+        "font_path": "static/fonts/LeagueGothic-Regular-VariableFont_wdth.ttf",
+        "align": "center"
+    }
 }
